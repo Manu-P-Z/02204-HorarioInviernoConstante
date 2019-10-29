@@ -19,7 +19,7 @@ package org.japo.java;
  *
  * @author Manu Portolés
  */
-public class main {
+public class Main {
 
     /**
      * @param args the command line arguments
